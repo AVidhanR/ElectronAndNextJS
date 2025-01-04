@@ -27,7 +27,7 @@ export default function Home() {
         </li>
       </ol>
 
-      <footer className="mt-[calc(22rem)] text-center">
+      <footer className="mt-[calc(20rem)] text-center">
         <Link
           href="https://github.com/AVidhanR/ElectronExp"
           className="hover:underline hover:text-blue-400"
