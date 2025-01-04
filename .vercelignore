@@ -1,3 +1,1 @@
-electron-wrapper/*.ts
-electron-wrapper/*.js
-electron-wrapper/*.json
+./electron-wrapper
