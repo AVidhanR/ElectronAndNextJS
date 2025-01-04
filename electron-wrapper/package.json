@@ -1,0 +1,24 @@
+{
+  "name": "electron-wrapper",
+  "version": "1.0.0",
+  "description": "This is an electron wrapper for the nextjs application",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc main.ts",
+    "start": "electron ./main.js",
+    "dev": "npm run build && npm run start"
+  },
+  "keywords": [
+    "electron",
+    "javascript",
+    "nextjs"
+  ],
+  "author": "A Vidhna Reddy",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "electron": "^33.2.1",
+    "typescript": "^5.7.2"
+  }
+}
