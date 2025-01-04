@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": false,
+    "esModuleInterop": true
+  },
+  "include": ["*.ts"],
+  "exclude": ["node_modules"]
+}
