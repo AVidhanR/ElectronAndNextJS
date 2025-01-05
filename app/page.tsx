@@ -29,7 +29,7 @@ export default function Home() {
 
       <footer className="mt-[calc(20rem)] text-center">
         <Link
-          href="https://github.com/AVidhanR/ElectronExp"
+          href="https://github.com/AVidhanR/ElectronAndNextJS"
           className="hover:underline hover:text-blue-400"
         >
           GitHub Repo
